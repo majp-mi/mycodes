@@ -4,6 +4,9 @@ github账户：
 git下载网址：
 https://git-scm.com/downloads
 
+gitextensions下载网址：
+https://sourceforge.net/projects/gitextensions/
+
 1.先在Git目录下创建文件夹repository，然后打开git-bash；
 2.在repository加下创建test文件夹，该文件夹将作为一个仓库。
    令为 mkdir test。
