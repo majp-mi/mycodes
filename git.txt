@@ -1,0 +1,17 @@
+github账户：
+       accout:majp-mi
+
+git下载网址：
+https://git-scm.com/downloads
+
+1.先在Git目录下创建文件夹repository，然后打开git-bash；
+2.在repository加下创建test文件夹，该文件夹将作为一个仓库。
+   令为 mkdir test。
+   然后使用 cd命令进入新建的test文件夹。
+3.接着输入 git init 初始化一个空仓库；
+4.配置全局的用户名和邮箱，命令分别为
+        git config --global user.name "username"
+        git config --global user.email "email"
+   查看全局的用户名和邮箱，命令分别为
+       git config --global user.name
+       git config --global user.email 
